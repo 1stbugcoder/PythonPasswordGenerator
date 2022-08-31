@@ -3,7 +3,6 @@
 #Version:1.1.0
 import random
 
-
 range1 = "1234567890qwertyuiopasdfghjklzxcvbnm"
 range2 = "1234567890QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm"
 range3 = "1234567890QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm@#,.?!*%&$"
