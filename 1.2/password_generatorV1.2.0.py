@@ -3,7 +3,6 @@
 #Version:1.2.0
 import random
 
-
 rangeA = "1234567890"
 rangeB = "qwertyuiopasdfghjklzxcvbnm"
 rangeC = "QWERTYUIOPASDFGHJKLZXCVBNM"
